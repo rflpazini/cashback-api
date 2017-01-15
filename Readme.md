@@ -221,7 +221,7 @@ users-transactions
 
 ```
 register-transaction
-400 - bad request (Because user don't have enouth money on your balance)
+400 - bad request (Because user don't have enough money on your balance)
 ```
 
 ```	
@@ -285,3 +285,4 @@ users-transactions
 ```
 
 ###Lincense
+[MIT License](http://rflpazini.mit-license.org) :copyright: Rafael Pazinis
