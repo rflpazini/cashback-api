@@ -1,6 +1,6 @@
-##cashback-api
+## cashback-api
 
-###Results of tests
+## Results of tests
 
 	1. Teste #1
 
@@ -284,5 +284,5 @@ users-transactions
 ]
 ```
 
-###Lincense
+## Lincense
 [MIT License](http://rflpazini.mit-license.org) :copyright: Rafael Pazinis
