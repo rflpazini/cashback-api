@@ -2,7 +2,7 @@
 
 ## Results of tests
 
-	1. Teste #1
+1. Teste #1
 
 ```
 register-transaction
@@ -66,7 +66,7 @@ users-transactions
 
 ```
 
-	2. Teste #2
+2. Teste #2
 
 ```
 register-transaction
@@ -138,7 +138,7 @@ users-transactions
 ]
 ```
 
-	3. Teste #3	
+3. Teste #3	
 
 ```
 register-transaction
@@ -217,7 +217,7 @@ users-transactions
   }
 ]
 ```
-	4. Teste #4
+4. Teste #4
 
 ```
 register-transaction
