@@ -105,6 +105,6 @@
 		<security.version>4.0.3.RELEASE</security.version>
 		<jdk.version>1.7</jdk.version>
 		<hibernate.version>5.2.18.Final</hibernate.version>
-		<org.aspectj-version>1.9.4</org.aspectj-version>
+		<org.aspectj-version>1.9.5</org.aspectj-version>
 	</properties>
 </project>
