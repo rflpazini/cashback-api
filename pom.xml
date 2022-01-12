@@ -101,7 +101,7 @@
 
 	</build>
 	<properties>
-		<spring.version>5.2.3.RELEASE</spring.version>
+		<spring.version>5.3.14</spring.version>
 		<security.version>4.0.3.RELEASE</security.version>
 		<jdk.version>1.7</jdk.version>
 		<hibernate.version>5.4.10.Final</hibernate.version>
